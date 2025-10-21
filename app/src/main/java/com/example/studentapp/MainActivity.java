@@ -18,7 +18,7 @@ import com.example.studentapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
-    private AppBarConfiguration mAppBarConfiguration;
+    private AppBarConfiguration mAppBarConfiguration; //carla was here
     private ActivityMainBinding binding;
 
     @Override
