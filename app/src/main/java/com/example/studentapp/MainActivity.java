@@ -19,7 +19,7 @@ import com.example.studentapp.databinding.ActivityMainBinding;
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration; //carla was here
-    private ActivityMainBinding binding;
+    private ActivityMainBinding binding;  //denisa was here
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
